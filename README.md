@@ -71,7 +71,9 @@ Based in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/usa-4.svg"
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats-kohl-gamma.vercel.app/api/top-langs/?username=JamesWJager&theme=onedark&count_private=true)](https://github.com/JamesWJager/github-readme-stats)
-	[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JamesWJager)](https://git.io/streak-stats)
+	
 [![Antonio's GitHub stats](https://github-readme-stats-kohl-gamma.vercel.app/api?username=JamesWJager&theme=onedark&count_private=true))](https://github.com/JamesWJager/github-readme-stats)
+	
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JamesWJager)](https://git.io/streak-stats)
 
 </div>
