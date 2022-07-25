@@ -69,11 +69,11 @@ Based in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/usa-4.svg"
 <div align="center">
 
 ## &#x1f4c8; My GitHub Stats
-
-<img src="https://github-readme-stats-kohl-gamma.vercel.app/api/top-langs/?username=JamesWJager&theme=onedark" width="40%"/>
 	
 <img src="https://github-readme-stats-kohl-gamma.vercel.app/api?username=JamesWJager&theme=onedark&count_private=true&show_icons=true" alt="James's Github Stats" width="45%" />
 	
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JamesWJager)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JamesWJager&theme=dark" width="45%" />
+
+<img src="https://github-readme-stats-kohl-gamma.vercel.app/api/top-langs/?username=JamesWJager&theme=onedark" width="40%"/>
 
 </div>
