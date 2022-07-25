@@ -3,7 +3,7 @@
 <h1 align="center"> Hello 👋🏻, ɪ'ᴍ James </h1>
 
 <p align="center">
-Based in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/usa-4.svg" alt="united states flag" height="30px" width="30px">&nbsp; &nbsp;
+Based in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/usa-1.svg" alt="united states flag" height="30px" width="30px">&nbsp; &nbsp;
 </p>
 
 <div align="center">
