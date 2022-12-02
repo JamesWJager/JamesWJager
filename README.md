@@ -8,10 +8,10 @@ Based in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/usa-4.svg"
 
 <div align="center">
 
-👨🏻‍💻 Front End Developer
+👨🏻‍💻 [Fusionary]([https://fusionary.com/]) Software Developer.<br><br>
 
-👨‍🎓 [Bottega University]([https://www.schoolofcode.co.uk/](https://bottega.edu/)) Bootcamp graduate.<br><br>
-👨‍🎓 [Clever Programmer]([https://www.cleverprogrammer.com/)) Full Stack Mastery Bootcamp graduate.<br><br>
+👨‍🎓 [Bottega University](https://bottega.edu/) Bootcamp graduate.<br><br>
+👨‍🎓 [Clever Programmer](https://www.cleverprogrammer.com/) Full Stack Mastery Bootcamp graduate.<br><br>
 
 </div>
 
