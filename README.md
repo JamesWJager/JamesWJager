@@ -8,8 +8,7 @@ Based in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/usa-4.svg"
 
 <div align="center">
 
-👨🏻‍💻 [Fusionary]([https://fusionary.com/]) Software Developer.<br><br>
-
+👨🏻‍💻 [Fusionary](https://fusionary.com/) Software Developer.<br><br>
 👨‍🎓 [Bottega University](https://bottega.edu/) Bootcamp graduate.<br><br>
 👨‍🎓 [Clever Programmer](https://www.cleverprogrammer.com/) Full Stack Mastery Bootcamp graduate.<br><br>
 
