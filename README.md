@@ -39,10 +39,6 @@ Based in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/usa-4.svg"
 <br>
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-### 💻 Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%23316192.svg?style=for-the-badge&logo=mongodb&logoColor=green)
-
 ### Cloud
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -61,11 +57,9 @@ Based in &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/usa-4.svg"
 	
 ## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
 
-<!-- <a href="https://www.linkedin.com/in/antonioriccelli/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo"  />
-    <a href="https://antonioriccelli.com/">
-		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
-      <a href="https://hashnode.com/@AntonioRiccelli" title="Hashnode"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"  alt="Hashnode Logo"/></a>
-<br> -->
+<a href="https://www.linkedin.com/in/james-jager-a85476162/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Logo" />
+
+<br>
 <a href="https://www.codewars.com/users/Apocilyptica"><img src="https://www.codewars.com/users/Apocilyptica/badges/large" title="Codewars rank"></a>
 
 </div>
