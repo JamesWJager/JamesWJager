@@ -35,12 +35,28 @@
 
 <br>
 
-| | |
-| :-- | :-- |
-| 🏢 **Now** | **[PipeTech](https://www.linkedin.com/company/pipetech-software/)** — sewer &amp; water inspection platform · Next.js web hub · NestJS · MongoDB · AWS |
-| 🧳 **Before** | **[Fusionary](https://fusionary.com/)** (2022–2025) — React Native apps · CMS/e-commerce · .NET admin tooling |
-| 🎓 **Education** | [Bottega University](https://bottega.edu/) · [Clever Programmer](https://www.cleverprogrammer.com/) Full Stack Mastery |
-| 🎣 **Off the clock** | On the water with **[Fear No Fish](https://www.facebook.com/profile.php?id=61561605830589)** — chasing big catches and bigger stories |
+<div align="center">
+
+<table>
+  <tr>
+    <td align="right" valign="top"><strong>🏢 Now</strong></td>
+    <td align="left"><strong><a href="https://www.linkedin.com/company/pipetech-software/">PipeTech</a></strong> — sewer &amp; water inspection platform · Next.js web hub · NestJS · MongoDB · AWS</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><strong>🧳 Before</strong></td>
+    <td align="left"><strong><a href="https://fusionary.com/">Fusionary</a></strong> (2022–2025) — React Native apps · CMS/e-commerce · .NET admin tooling</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><strong>🎓 Education</strong></td>
+    <td align="left"><a href="https://bottega.edu/">Bottega University</a> · <a href="https://www.cleverprogrammer.com/">Clever Programmer</a> Full Stack Mastery</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top"><strong>🎣 Off the clock</strong></td>
+    <td align="left">On the water with <strong><a href="https://www.facebook.com/profile.php?id=61561605830589">Fear No Fish</a></strong> — chasing big catches and bigger stories</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
