@@ -223,16 +223,28 @@
 
 <div align="center">
 
-<a href="https://github.com/James-Jager">
-  <img height="200" align="center" src="https://github-readme-stats-flame-iota-43.vercel.app/api?username=James-Jager&theme=onedark&count_private=true&show_icons=true" alt="James-Jager GitHub stats" />
-</a>
-<a href="https://github.com/James-Jager">
-  <img height="200" align="center" src="https://github-readme-stats-flame-iota-43.vercel.app/api/top-langs/?username=James-Jager&theme=onedark&layout=compact&langs_count=8&card_width=320" alt="James-Jager top languages" />
-</a>
-<br>
-<a href="https://github.com/James-Jager">
-  <img height="200" align="center" src="https://github-readme-streak-lilac.vercel.app/?user=James-Jager&theme=onedark" alt="James-Jager GitHub streak" />
-</a>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/James-Jager">
+        <img height="200" src="https://github-readme-stats-flame-iota-43.vercel.app/api?username=James-Jager&theme=onedark&count_private=true&show_icons=true" alt="James-Jager GitHub stats" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/James-Jager">
+        <img height="200" src="https://github-readme-streak-lilac.vercel.app/?user=James-Jager&theme=onedark" alt="James-Jager GitHub streak" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="middle">
+      <br>
+      <a href="https://github.com/James-Jager">
+        <img height="200" src="https://github-readme-stats-flame-iota-43.vercel.app/api/top-langs/?username=James-Jager&theme=onedark&layout=compact&langs_count=6&card_width=320" alt="James-Jager top languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -246,12 +258,20 @@
 
 <div align="center">
 
-<a href="https://github.com/JamesWJager">
-  <img height="200" align="center" src="https://github-readme-stats-flame-iota-43.vercel.app/api?username=JamesWJager&theme=onedark&count_private=true&show_icons=true" alt="JamesWJager GitHub stats" />
-</a>
-<a href="https://github.com/JamesWJager">
-  <img height="200" align="center" src="https://github-readme-stats-flame-iota-43.vercel.app/api/top-langs/?username=JamesWJager&theme=onedark&layout=compact&langs_count=8&card_width=320" alt="JamesWJager top languages" />
-</a>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/JamesWJager">
+        <img height="200" src="https://github-readme-stats-flame-iota-43.vercel.app/api?username=JamesWJager&theme=onedark&count_private=true&show_icons=true" alt="JamesWJager GitHub stats" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://github.com/JamesWJager">
+        <img height="200" src="https://github-readme-stats-flame-iota-43.vercel.app/api/top-langs/?username=JamesWJager&theme=onedark&layout=compact&langs_count=6&card_width=320" alt="JamesWJager top languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
