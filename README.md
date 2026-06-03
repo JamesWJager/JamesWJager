@@ -204,6 +204,7 @@
 
 </div>
 
+<!--
 ---
 
 <div align="center">
@@ -215,3 +216,4 @@
 <img src="https://github-readme-stats-flame-iota-43.vercel.app/api/pin/?username=EcoMileSmartDrive&repo=EcoMileMobile&theme=onedark" alt="EcoMileMobile" width="70%" />
 
 </div>
+-->
