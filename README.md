@@ -227,13 +227,13 @@
       <img src="https://github-readme-stats-flame-iota-43.vercel.app/api?username=James-Jager&theme=onedark&count_private=true&show_icons=true&hide=stars,issues" alt="James-Jager GitHub stats" width="100%" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-streak-lilac.vercel.app/?user=James-Jager&theme=onedark" alt="James-Jager GitHub streak" width="100%" />
+      <img src="https://github-readme-stats-flame-iota-43.vercel.app/api/top-langs/?username=James-Jager&theme=onedark&layout=compact&langs_count=5&hide=html,scss,less,Rich%20Text%20Format,Visual%20Basic%20.NET&hide_title=true&card_width=280" alt="James-Jager top languages" width="100%" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
       <br>
-      <img src="https://github-readme-stats-flame-iota-43.vercel.app/api/top-langs/?username=James-Jager&theme=onedark&layout=compact&langs_count=6&hide=html,scss" alt="James-Jager top languages" width="70%" />
+      <img src="https://github-readme-streak-lilac.vercel.app/?user=James-Jager&theme=onedark" alt="James-Jager GitHub streak" width="50%" />
     </td>
   </tr>
 </table>
