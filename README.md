@@ -101,14 +101,14 @@
 
 <br>
 
-| | |
-| :-- | :-- |
-| 🖥 **Frontend** | Ant Design · React Hook Form · TanStack Query · SCSS · ArcGIS / Esri · Uppy · HLS.js · video overlays · wizard upload flows |
-| ⚙️ **Backend** | NestJS · Node.js · REST · Swagger · DTOs (class-validator, Zod) · BullMQ · signed URLs · multipart uploads · XML/CSV |
-| 🗄 **Data** | MongoDB · Redis · inspection asset / observation / template models · migration transforms |
-| ☁️ **Cloud & media** | S3 · SST · Cognito · SQS/FIFO · CloudFront · MediaConvert · HLS / M3U8 · desktop transcoding |
-| 🔧 **Tooling** | Nx monorepo · Git · GitHub · Jest · Husky · patch-package |
-| 🏗 **Domain** | PACP/NASSCO · pipe inspection QA · LinerFit · Tap Analysis · GIS integrations · media lifecycle |
+|                      |                                                                                                                             |
+| :------------------- | :-------------------------------------------------------------------------------------------------------------------------- |
+| 🖥 **Frontend**      | Ant Design · React Hook Form · TanStack Query · SCSS · ArcGIS / Esri · Uppy · HLS.js · video overlays · wizard upload flows |
+| ⚙️ **Backend**       | NestJS · Node.js · REST · Swagger · DTOs (class-validator, Zod) · BullMQ · signed URLs · multipart uploads · XML/CSV        |
+| 🗄 **Data**          | MongoDB · Redis · inspection asset / observation / template models · migration transforms                                   |
+| ☁️ **Cloud & media** | S3 · SST · Cognito · SQS/FIFO · CloudFront · MediaConvert · HLS / M3U8 · desktop transcoding                                |
+| 🔧 **Tooling**       | Nx monorepo · Git · GitHub · Jest · Husky · patch-package                                                                   |
+| 🏗 **Domain**        | PACP/NASSCO · pipe inspection QA · LinerFit · Tap Analysis · GIS integrations · media lifecycle                             |
 
 </details>
 
@@ -137,14 +137,14 @@
 
 <br>
 
-| | |
-| :-- | :-- |
-| 🖥 **Frontend** | React · Next.js · Angular · Angular Material · Tailwind · SCSS · React Hook Form · TanStack Query |
-| ⚙️ **Backend** | Node.js · C# / .NET · ASP.NET Core · REST · Swagger · DTOs · XML/CSV/JSON · background jobs |
-| 🗄 **Data** | PostgreSQL · Entity Framework Core |
-| ☁️ **Cloud & DevOps** | AWS · S3 · CloudFront · Docker · Docker Compose · GitHub Actions |
-| 🔧 **Tooling** | Git · GitHub · Nx · OpenAPI clients · Bash · monorepo workflows |
-| 📦 **Domains** | Client portals · admin dashboards · e-commerce · LMS · CMS sites · payments · data migrations |
+|                       |                                                                                                   |
+| :-------------------- | :------------------------------------------------------------------------------------------------ |
+| 🖥 **Frontend**       | React · Next.js · Angular · Angular Material · Tailwind · SCSS · React Hook Form · TanStack Query |
+| ⚙️ **Backend**        | Node.js · C# / .NET · ASP.NET Core · REST · Swagger · DTOs · XML/CSV/JSON · background jobs       |
+| 🗄 **Data**           | PostgreSQL · Entity Framework Core                                                                |
+| ☁️ **Cloud & DevOps** | AWS · S3 · CloudFront · Docker · Docker Compose · GitHub Actions                                  |
+| 🔧 **Tooling**        | Git · GitHub · Nx · OpenAPI clients · Bash · monorepo workflows                                   |
+| 📦 **Domains**        | Client portals · admin dashboards · e-commerce · LMS · CMS sites · payments · data migrations     |
 
 </details>
 
@@ -171,13 +171,13 @@
 
 <br>
 
-| | |
-| :-- | :-- |
-| 📱 **Mobile** | React Native · Expo · MobX / MST · NativeWind · React Navigation · Reanimated · EAS Build |
-| 🗺 **Maps** | HERE Explore SDK · flexpolyline · route calc · map rendering · geolocation UI |
-| 🔌 **Device** | OBD-II · OBDLink MX+ · Bluetooth Classic · BLE · VIN/CVN/CALID decoding |
-| 🔧 **Tooling** | Reactotron · Maestro E2E · Jest · Testing Library · Android SDK · Xcode |
-| 🎯 **Focus** | Eco-routing · vehicle diagnostics · energy estimation · route visualization |
+|                |                                                                                           |
+| :------------- | :---------------------------------------------------------------------------------------- |
+| 📱 **Mobile**  | React Native · Expo · MobX / MST · NativeWind · React Navigation · Reanimated · EAS Build |
+| 🗺 **Maps**    | HERE Explore SDK · flexpolyline · route calc · map rendering · geolocation UI             |
+| 🔌 **Device**  | OBD-II · OBDLink MX+ · Bluetooth Classic · BLE · VIN/CVN/CALID decoding                   |
+| 🔧 **Tooling** | Reactotron · Maestro E2E · Jest · Testing Library · Android SDK · Xcode                   |
+| 🎯 **Focus**   | Eco-routing · vehicle diagnostics · energy estimation · route visualization               |
 
 </details>
 
@@ -211,26 +211,53 @@
 
 ## GitHub stats
 
-<p>
-  <em>Stats from my <a href="https://github.com/JamesWJager">personal</a> and <a href="https://github.com/James-Jager">work</a> GitHub accounts.
-  Work activity is mostly in private org repos; cards use a <a href="https://github.com/JamesWJager/github-readme-stats">self-hosted</a> instance with PATs for private contributions.</em>
-</p>
-
-<p><strong>Personal — <a href="https://github.com/JamesWJager">JamesWJager</a></strong></p>
-
-<img src="https://github-readme-stats-flame-iota-43.vercel.app/api?username=JamesWJager&theme=onedark&count_private=true&show_icons=true" alt="JamesWJager GitHub stats" width="45%" />
-
-<img src="https://github-readme-stats-flame-iota-43.vercel.app/api/top-langs/?username=JamesWJager&theme=onedark&layout=compact&langs_count=8" alt="JamesWJager top languages" width="40%" />
-
-<p><strong>Work — <a href="https://github.com/James-Jager">James-Jager</a> (PipeTech)</strong></p>
-
-<img src="https://github-readme-stats-flame-iota-43.vercel.app/api?username=James-Jager&theme=onedark&count_private=true&show_icons=true" alt="James-Jager GitHub stats" width="45%" />
-
-<img src="https://github-readme-streak-lilac.vercel.app/?user=James-Jager&theme=onedark" alt="James-Jager GitHub streak" width="45%" />
-
-<img src="https://github-readme-stats-flame-iota-43.vercel.app/api/top-langs/?username=James-Jager&theme=onedark&layout=compact&langs_count=8" alt="James-Jager top languages" width="40%" />
+<sub>Self-hosted cards · includes private contributions · <a href="https://github.com/JamesWJager/github-readme-stats">source</a></sub>
 
 </div>
+
+<br>
+
+<details open>
+<summary><strong>Work</strong> · <a href="https://github.com/James-Jager">James-Jager</a> · PipeTech</summary>
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats-flame-iota-43.vercel.app/api?username=James-Jager&theme=onedark&count_private=true&show_icons=true&hide=stars,issues" alt="James-Jager GitHub stats" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-streak-lilac.vercel.app/?user=James-Jager&theme=onedark" alt="James-Jager GitHub streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <br>
+      <img src="https://github-readme-stats-flame-iota-43.vercel.app/api/top-langs/?username=James-Jager&theme=onedark&layout=compact&langs_count=6&hide=html,scss" alt="James-Jager top languages" width="70%" />
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>Personal</strong> · <a href="https://github.com/JamesWJager">JamesWJager</a></summary>
+<br>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats-flame-iota-43.vercel.app/api?username=JamesWJager&theme=onedark&count_private=true&show_icons=true&hide=stars,issues" alt="JamesWJager GitHub stats" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats-flame-iota-43.vercel.app/api/top-langs/?username=JamesWJager&theme=onedark&layout=compact&langs_count=6&hide=html,css" alt="JamesWJager top languages" width="100%" />
+    </td>
+  </tr>
+</table>
+
+</details>
 
 <!--
 
