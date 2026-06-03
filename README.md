@@ -111,8 +111,11 @@
 <a href="https://www.linkedin.com/in/james-jager-a85476162/" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+<a href="https://github.com/JamesWJager" title="Personal GitHub">
+  <img src="https://img.shields.io/badge/Personal-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal GitHub" />
+</a>
 <a href="https://github.com/James-Jager" title="Work GitHub">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub" />
+  <img src="https://img.shields.io/badge/Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub" />
 </a>
 
 <br>
@@ -130,25 +133,45 @@
 ## GitHub stats
 
 <p>
-  <em>Activity below is from my personal account (<a href="https://github.com/JamesWJager">JamesWJager</a>).
-  Day-to-day production work lives on <a href="https://github.com/James-Jager">James-Jager</a> (private org repos).</em>
+  <em>Stats from my <a href="https://github.com/JamesWJager">personal</a> and <a href="https://github.com/James-Jager">work</a> GitHub accounts.
+  Work activity is mostly in private org repos; cards use a <a href="https://github.com/JamesWJager/github-readme-stats">self-hosted</a> instance with PATs for private contributions.</em>
 </p>
 
-<!-- Stats base URL: update after Vercel redeploy. Phase 2: add James-Jager cards + PAT_1 for private/work stats. -->
+<p><strong>Personal — <a href="https://github.com/JamesWJager">JamesWJager</a></strong></p>
 
-<img src="https://github-readme-stats-kohl-gamma.vercel.app/api?username=JamesWJager&theme=onedark&count_private=true&show_icons=true" alt="JamesWJager GitHub stats" width="45%" />
+<img src="https://github-readme-stats-flame-iota-43.vercel.app/api?username=JamesWJager&theme=onedark&count_private=true&show_icons=true" alt="JamesWJager GitHub stats" width="45%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JamesWJager&theme=onedark" alt="JamesWJager GitHub streak" width="45%" />
+<img src="https://github-readme-stats-flame-iota-43.vercel.app/api/top-langs/?username=JamesWJager&theme=onedark&layout=compact&langs_count=8" alt="JamesWJager top languages" width="40%" />
 
-<img src="https://github-readme-stats-kohl-gamma.vercel.app/api/top-langs/?username=JamesWJager&theme=onedark&layout=compact&langs_count=8" alt="JamesWJager top languages" width="40%" />
+<p><strong>Work — <a href="https://github.com/James-Jager">James-Jager</a> (PipeTech)</strong></p>
 
-<!--
-Phase 2 (Vercel): fork github-readme-stats, set PAT_1 (repo + read:user) on James-Jager, redeploy, then uncomment:
+<img src="https://github-readme-stats-flame-iota-43.vercel.app/api?username=James-Jager&theme=onedark&count_private=true&show_icons=true" alt="James-Jager GitHub stats" width="45%" />
 
-<p><strong>Work GitHub (PipeTech)</strong></p>
-<img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api?username=James-Jager&theme=onedark&count_private=true&show_icons=true" alt="James-Jager GitHub stats" width="45%" />
-<img src="https://YOUR-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=James-Jager&theme=onedark&layout=compact&langs_count=8" alt="James-Jager top languages" width="40%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=James-Jager&theme=onedark" alt="James-Jager streak" width="45%" />
--->
+<img src="https://github-readme-streak-lilac.vercel.app/?user=James-Jager&theme=onedark" alt="James-Jager GitHub streak" width="45%" />
+
+<img src="https://github-readme-stats-flame-iota-43.vercel.app/api/top-langs/?username=James-Jager&theme=onedark&layout=compact&langs_count=8" alt="James-Jager top languages" width="40%" />
+
+<p><em>Contribution graph (James-Jager; includes private contributions when enabled on profile).</em></p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?user=James-Jager&theme=onedark&hide_border=true&area=true" alt="James-Jager GitHub contribution graph" width="90%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Selected work
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-flame-iota-43.vercel.app/api/pin/?username=JamesWJager&repo=james-jager-react-portfolio&theme=onedark" alt="james-jager-react-portfolio" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-flame-iota-43.vercel.app/api/pin/?username=JamesWJager&repo=nextjs-edge-personalization-demo&theme=onedark" alt="nextjs-edge-personalization-demo" />
+    </td>
+  </tr>
+</table>
 
 </div>
