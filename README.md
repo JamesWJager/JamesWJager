@@ -151,10 +151,6 @@
 
 <img src="https://github-readme-stats-flame-iota-43.vercel.app/api/top-langs/?username=James-Jager&theme=onedark&layout=compact&langs_count=8" alt="James-Jager top languages" width="40%" />
 
-<p><em>Contribution graph (James-Jager; includes private contributions when enabled on profile).</em></p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?user=James-Jager&theme=onedark&hide_border=true&area=true" alt="James-Jager GitHub contribution graph" width="90%" />
-
 </div>
 
 ---
