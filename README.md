@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Full-stack product engineer — React, Next.js, and Angular on the front;<br>
+  Full-stack product engineer — <strong>React</strong> &amp; <strong>Next.js</strong> on the front;<br>
   <strong>NestJS</strong>, <strong>MongoDB</strong>, and <strong>AWS</strong> in production at PipeTech.
 </p>
 
@@ -21,30 +21,26 @@
 
 ## About me
 
+<sub>Builder · full-stack product engineer · Grand Haven, Michigan</sub>
+
 </div>
 
-<p align="center">
-  I'm a builder at heart — driven by clean code, clever systems, and hard problems worth solving.<br>
-  I care about type-safe contracts (Zod, DTOs), scalable state (React Context, atomic stores, RxJS in Angular),<br>
-  and full-stack delivery where polished UIs meet solid APIs and data layers.
-</p>
+<br>
 
 <p align="center">
-  <strong><a href="https://www.linkedin.com/company/pipetech-software/">PipeTech</a></strong> — utilities &amp; inspection software.<br>
-  Feature work across enterprise Angular/React UIs, <strong>NestJS</strong> backends, <strong>MongoDB</strong>, and <strong>AWS</strong>.
+  I'm driven by clean code, clever systems, and hard problems worth solving.<br>
+  I care about type-safe contracts (Zod, DTOs), polished React/Next.js UIs, and full-stack delivery<br>
+  where design meets solid NestJS APIs and MongoDB data layers.
 </p>
 
-<p align="center">
-  <strong><a href="https://fusionary.com/">Fusionary</a></strong> (2022–2025) — React Native apps, CMS/e-commerce, and .NET-integrated admin tooling.
-</p>
+<br>
 
-<p align="center">
-  <strong>Education</strong> — <a href="https://bottega.edu/">Bottega University</a> · <a href="https://www.cleverprogrammer.com/">Clever Programmer</a> Full Stack Mastery
-</p>
-
-<p align="center">
-  <em>Off the clock: on the water with Fear No Fish — chasing big catches and bigger stories.</em>
-</p>
+| | |
+| :-- | :-- |
+| 🏢 **Now** | **[PipeTech](https://www.linkedin.com/company/pipetech-software/)** — sewer &amp; water inspection platform · Next.js web hub · NestJS · MongoDB · AWS |
+| 🧳 **Before** | **[Fusionary](https://fusionary.com/)** (2022–2025) — React Native apps · CMS/e-commerce · .NET admin tooling |
+| 🎓 **Education** | [Bottega University](https://bottega.edu/) · [Clever Programmer](https://www.cleverprogrammer.com/) Full Stack Mastery |
+| 🎣 **Off the clock** | On the water with **[Fear No Fish](https://www.facebook.com/profile.php?id=61561605830589)** — chasing big catches and bigger stories |
 
 ---
 
@@ -58,13 +54,13 @@
 
 <br>
 
-| | |
-| :-- | :-- |
-| 🏗 **Product** | Inspection lifecycle · projects &amp; collections · deliverables · shared client links · org admin · licensing &amp; billing |
-| 📋 **Domain** | PACP/NASSCO validation · observation QA · asset &amp; template modeling · Tap Analysis · LinerFit |
-| 📤 **Media** | Uppy upload wizards · S3 signed URLs · HLS video playback · AWS MediaConvert transcode pipelines |
-| 🗺 **GIS** | ArcGIS / Esri integrations · inspection geodata · Cartegraph &amp; Unity connectors |
-| 💻 **Delivery** | Next.js &amp; React UI · NestJS APIs · MongoDB · BullMQ background jobs · Redis · SST on AWS |
+|                 |                                                                                                                              |
+| :-------------- | :--------------------------------------------------------------------------------------------------------------------------- |
+| 🏗 **Product**  | Inspection lifecycle · projects &amp; collections · deliverables · shared client links · org admin · licensing &amp; billing |
+| 📋 **Domain**   | PACP/NASSCO validation · observation QA · asset &amp; template modeling · Tap Analysis · LinerFit                            |
+| 📤 **Media**    | Uppy upload wizards · S3 signed URLs · HLS video playback · AWS MediaConvert transcode pipelines                             |
+| 🗺 **GIS**      | ArcGIS / Esri integrations · inspection geodata · Cartegraph &amp; Unity connectors                                          |
+| 💻 **Delivery** | Next.js &amp; React UI · NestJS APIs · MongoDB · BullMQ background jobs · Redis · SST on AWS                                 |
 
 ---
 
