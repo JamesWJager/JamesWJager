@@ -70,13 +70,21 @@
 
 ## Professional experience tech stack
 
-### PipeTech — Software Developer
+<sub>Headline stack at a glance — expand a role for the full breakdown</sub>
 
-**June 2025 – Present**
+</div>
 
-<p align="center">
-  Inspection-management software for sewer and water infrastructure — upload workflows, media synchronization, validation systems, cloud media pipelines, and PACP/NASSCO-based inspection tooling.
-</p>
+<br>
+
+<details open>
+<summary><strong>PipeTech</strong> — Software Developer · <code>Jun 2025 – Present</code></summary>
+<br>
+
+<div align="center">
+
+<em>Inspection-management SaaS for sewer &amp; water infrastructure</em>
+
+<br><br>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -89,24 +97,32 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 
-<p align="center">
-  <strong>Frontend:</strong> React, Next.js, TypeScript, Ant Design, React Hook Form, TanStack Query, SCSS, HLS.js, custom video overlays, Uppy upload UI, ArcGIS / Esri, form-heavy inspection workflows, wizard-based upload flows<br>
-  <strong>Backend:</strong> NestJS, Node.js, REST APIs, Swagger/OpenAPI, DTO-based API design (class-validator, class-transformer, Zod), BullMQ, background jobs, signed URL generation, multipart upload coordination, XML parsing, CSV export/import<br>
-  <strong>Databases &amp; Caching:</strong> MongoDB, Redis, structured inspection data models, asset/observation/template modeling, migration-support data transformations<br>
-  <strong>Cloud &amp; Media:</strong> AWS, S3, SST, Cognito, signed URLs, multipart uploads, SQS/FIFO queues, CloudFront, MediaConvert, HLS video workflows, M3U8 playlists, <code>.ts</code> video segments, local desktop transcoding integration<br>
-  <strong>Tooling:</strong> Nx monorepo, Git, GitHub, Jest, Husky, patch-package<br>
-  <strong>Domain:</strong> Pipe inspection software, PACP/NASSCO data, sewer/water asset modeling, observation validation, inspection QA, project deliverables, GIS-style integrations, Tap Analysis, LinerFit, inspection media lifecycle management
-</p>
+</div>
 
----
+<br>
 
-### Fusionary — Software Developer
+| | |
+| :-- | :-- |
+| 🖥 **Frontend** | Ant Design · React Hook Form · TanStack Query · SCSS · ArcGIS / Esri · Uppy · HLS.js · video overlays · wizard upload flows |
+| ⚙️ **Backend** | NestJS · Node.js · REST · Swagger · DTOs (class-validator, Zod) · BullMQ · signed URLs · multipart uploads · XML/CSV |
+| 🗄 **Data** | MongoDB · Redis · inspection asset / observation / template models · migration transforms |
+| ☁️ **Cloud & media** | S3 · SST · Cognito · SQS/FIFO · CloudFront · MediaConvert · HLS / M3U8 · desktop transcoding |
+| 🔧 **Tooling** | Nx monorepo · Git · GitHub · Jest · Husky · patch-package |
+| 🏗 **Domain** | PACP/NASSCO · pipe inspection QA · LinerFit · Tap Analysis · GIS integrations · media lifecycle |
 
-**2022 – 2025**
+</details>
 
-<p align="center">
-  Client and product applications across full-stack web development, admin platforms, backend APIs, and mobile/web experiences.
-</p>
+<br>
+
+<details>
+<summary><strong>Fusionary</strong> — Software Developer · <code>2022 – 2025</code></summary>
+<br>
+
+<div align="center">
+
+<em>Client &amp; product apps — full-stack web, admin platforms, and mobile experiences</em>
+
+<br><br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -117,24 +133,32 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<p align="center">
-  <strong>Frontend:</strong> React, Next.js, TypeScript, JavaScript, Angular, Angular Material, SCSS, HTML, CSS, Tailwind, React Hook Form, TanStack Query / React Query<br>
-  <strong>Backend:</strong> Node.js, C#/.NET, ASP.NET Core, REST APIs, Swagger/OpenAPI, DTO-based API design, XML/CSV/JSON parsing, background jobs, file-processing workflows<br>
-  <strong>Databases:</strong> PostgreSQL, Entity Framework Core<br>
-  <strong>Cloud &amp; DevOps:</strong> AWS, S3, CloudFront, Docker, Docker Compose, GitHub Actions<br>
-  <strong>Tooling:</strong> Git, GitHub, Nx, OpenAPI-generated clients, Bash, monorepo-style project organization<br>
-  <strong>Project domains:</strong> Client portals, admin dashboards, e-commerce workflows, learning management systems, CMS-backed websites, payment integrations, data migration scripts, internal tooling
-</p>
+</div>
 
----
+<br>
 
-### Michigan Technological University — EcoMile Project
+| | |
+| :-- | :-- |
+| 🖥 **Frontend** | React · Next.js · Angular · Angular Material · Tailwind · SCSS · React Hook Form · TanStack Query |
+| ⚙️ **Backend** | Node.js · C# / .NET · ASP.NET Core · REST · Swagger · DTOs · XML/CSV/JSON · background jobs |
+| 🗄 **Data** | PostgreSQL · Entity Framework Core |
+| ☁️ **Cloud & DevOps** | AWS · S3 · CloudFront · Docker · Docker Compose · GitHub Actions |
+| 🔧 **Tooling** | Git · GitHub · Nx · OpenAPI clients · Bash · monorepo workflows |
+| 📦 **Domains** | Client portals · admin dashboards · e-commerce · LMS · CMS sites · payments · data migrations |
 
-**Contract / Project Work · 2025**
+</details>
 
-<p align="center">
-  EcoMile — a mobile app for eco-routing, vehicle diagnostics, and energy-aware navigation with map-based routing and Bluetooth vehicle integration.
-</p>
+<br>
+
+<details>
+<summary><strong>Michigan Tech</strong> — EcoMile · <code>Contract · 2025</code></summary>
+<br>
+
+<div align="center">
+
+<em>Eco-routing &amp; vehicle diagnostics — map-based navigation with Bluetooth OBD-II integration</em>
+
+<br><br>
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -143,15 +167,19 @@
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
 
-<p align="center">
-  <strong>Mobile:</strong> React Native, Expo, TypeScript, MobX / MobX-State-Tree, NativeWind, React Navigation, React Native Gesture Handler, Reanimated, Bottom Sheet UI, EAS Build<br>
-  <strong>Maps &amp; Routing:</strong> HERE Maps / HERE Explore SDK, react-native-here-explore, route calculation, map rendering, route polyline visualization, geolocation-based UI<br>
-  <strong>Vehicle / Device:</strong> OBD-II concepts, OBDLink MX+, Bluetooth Classic, BLE (react-native-ble-plx), VIN/CVN/CALID decoding concepts<br>
-  <strong>Tooling:</strong> Reactotron, Maestro E2E, Jest, Testing Library, Android SDK, Xcode/iOS simulator, native permission debugging, cross-platform Android/iOS troubleshooting<br>
-  <strong>Project focus:</strong> Eco-routing, vehicle diagnostics, energy usage estimation, mobile map interfaces, Bluetooth-connected vehicle telemetry, route visualization
-</p>
-
 </div>
+
+<br>
+
+| | |
+| :-- | :-- |
+| 📱 **Mobile** | React Native · Expo · MobX / MST · NativeWind · React Navigation · Reanimated · EAS Build |
+| 🗺 **Maps** | HERE Explore SDK · flexpolyline · route calc · map rendering · geolocation UI |
+| 🔌 **Device** | OBD-II · OBDLink MX+ · Bluetooth Classic · BLE · VIN/CVN/CALID decoding |
+| 🔧 **Tooling** | Reactotron · Maestro E2E · Jest · Testing Library · Android SDK · Xcode |
+| 🎯 **Focus** | Eco-routing · vehicle diagnostics · energy estimation · route visualization |
+
+</details>
 
 ---
 
@@ -205,7 +233,6 @@
 </div>
 
 <!--
----
 
 <div align="center">
 
