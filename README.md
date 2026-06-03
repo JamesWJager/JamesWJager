@@ -52,17 +52,19 @@
 
 ## What I work on
 
+<sub>PipeTech web hub · sewer &amp; water inspection platform (Nx monorepo)</sub>
+
 </div>
 
-<p align="center">
-  • Enterprise Angular &amp; React feature delivery<br>
-  • <strong>NestJS</strong> APIs and modular backend architecture<br>
-  • <strong>MongoDB</strong> modeling, queries, and application data layers<br>
-  • <strong>AWS</strong> cloud workflows and deployment<br>
-  • Type-safe validation (Zod) end-to-end<br>
-  • Design systems and component architecture<br>
-  • Testing with Jest · legacy refactors and DX improvements
-</p>
+<br>
+
+| | |
+| :-- | :-- |
+| 🏗 **Product** | Inspection lifecycle · projects &amp; collections · deliverables · shared client links · org admin · licensing &amp; billing |
+| 📋 **Domain** | PACP/NASSCO validation · observation QA · asset &amp; template modeling · Tap Analysis · LinerFit |
+| 📤 **Media** | Uppy upload wizards · S3 signed URLs · HLS video playback · AWS MediaConvert transcode pipelines |
+| 🗺 **GIS** | ArcGIS / Esri integrations · inspection geodata · Cartegraph &amp; Unity connectors |
+| 💻 **Delivery** | Next.js &amp; React UI · NestJS APIs · MongoDB · BullMQ background jobs · Redis · SST on AWS |
 
 ---
 
