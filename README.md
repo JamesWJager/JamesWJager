@@ -199,6 +199,34 @@
 
 <div align="center">
 
+## Open source contributions
+
+<sub>Upstream fixes &amp; PRs — tracked by account</sub>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="left" valign="top" width="180"><strong>📦 rc-portal</strong></td>
+    <td align="left"><a href="https://github.com/react-component/portal">react-component/portal</a> · React 18 portal component (<code>@rc-component/portal</code>, Ant Design ecosystem)<br>
+    <a href="https://github.com/react-component/portal/pull/29">PR #29</a> — fixed maximum update depth in <code>Portal.tsx</code> · <a href="https://github.com/James-Jager">James-Jager</a> · Dec 2025</td>
+  </tr>
+</table>
+
+</div>
+
+<!-- Add rows above as you contribute upstream. Pin cards work once the org is on your stats WHITELIST:
+<img height="200" src="https://github-readme-stats-flame-iota-43.vercel.app/api/pin/?username=react-component&repo=portal&theme=onedark" alt="react-component/portal" />
+-->
+
+---
+
+<div align="center">
+
 ## Get in touch
 
 <a href="https://www.linkedin.com/in/james-jager-a85476162/" title="LinkedIn">
