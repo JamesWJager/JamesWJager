@@ -117,8 +117,8 @@
 
 <br>
 
-<a href="https://www.codewars.com/users/Apocilyptica">
-  <img src="https://www.codewars.com/users/Apocilyptica/badges/large" title="Codewars rank" alt="Codewars rank" />
+<a href="https://www.codewars.com/users/JamesWJager">
+  <img src="https://www.codewars.com/users/JamesWJager/badges/large" title="Codewars rank" alt="Codewars rank" />
 </a>
 
 </div>
